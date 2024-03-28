@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @mercyogalo
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning Business Information Technology
-- 💞️ I’m looking to collaborate on projects to make myself a better web developer
+- 👋 Hi, I’m @Mercyogalo
+- 👀 I’m interested in being a full stack developer 
+- 🌱 I’m currently a fronted developer
+- 💞️ I’m looking to collaborate on projects with other developers and learn from them 
 - 📫 How to reach me on gram@Ogalo_Mercy
 
 <!---
