@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mercyogalo
 - 👀 I’m interested in being a full stack developer 
-- 🌱 I’m currently a fronted developer
+- 🌱 I’m currently a frontend developer
 - 💞️ I’m looking to collaborate on projects with other developers and learn from them 
 - 📫 How to reach me on gram@Ogalo_Mercy
 
